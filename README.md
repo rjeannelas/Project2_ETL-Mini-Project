@@ -12,13 +12,13 @@ Rename the ETL_Mini_Project_Starter_Code.ipynb file with your first name initial
 
 # Instructions
 
-## Extract, transform, then export the crowdfunding.xlsx Excel data to create a Dataframe into the following subsections:
+### Extract, transform, then export the crowdfunding.xlsx Excel data to create a Dataframe into the following subsections:
 
- ### Category and Subcategory DataFrames
- ### Campaign DataFrame
- ### Contacts DataFrame
- ### Crowdfunding Database
- ### Category and Subcategory DataFrames
+ #### Category and Subcategory DataFrames
+ #### Campaign DataFrame
+ #### Contacts DataFrame
+ #### Crowdfunding Database
+ #### Category and Subcategory DataFrames
 
 # Final contact DataFrame
 Create the Crowdfunding Database
