@@ -13,15 +13,15 @@ Create four CSV files and use the CSV file data to create an ERD and a table sch
  #### Crowdfunding Database
  #### Category and Subcategory DataFrames
  
- # Create the Contacts DataFrame
-## Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
+### Create the Contacts DataFrame
+#### Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 Option 1: Use Python dictionary methods.
 Option 2: Use regular expressions.
 
 
 
-# Final contact DataFrame
-## Create the Crowdfunding Database
+### Final contact DataFrame
+#### Create the Crowdfunding Database
 Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD.
 Import each CSV file into its corresponding SQL table in the correct order - verify that each table creation has the correct data.
 
